@@ -2,7 +2,7 @@
 #环境变量 xpnc
 # 取url(/treemp/user.PersonalCenter/getInfo)请求头中的authorization
 #变量格式 token#备注，多账号换行
-#入口 微信扫码 https://i.afbcs.cn/nL7s92
+#入口 微信扫码 https://www.picgo.net/image/img.k3gVf7
 
 import base64
 import zlib
